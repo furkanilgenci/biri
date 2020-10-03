@@ -1,3 +1,7 @@
+---
+permalink: /index.html
+---
+
 # biri
 
 A unique client ID generator for browser applications
